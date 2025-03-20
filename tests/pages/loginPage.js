@@ -12,5 +12,4 @@ class LoginPage{
         return errorLocator;
     }
 }
-
-module.exports = LoginPage;
+export default LoginPage;
