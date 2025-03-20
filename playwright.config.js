@@ -19,10 +19,6 @@ export default defineConfig({
   use: {
     screenshot: 'only-on-failure',
     video: 'retain-on-failure',
-    headless: false,
-    launchOptions:{
-      slowMo: 300
-    },
     baseURL: 'https://www.saucedemo.com/',
     trace: 'on-first-retry',
   },
