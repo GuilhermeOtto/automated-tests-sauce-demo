@@ -104,6 +104,5 @@ npm init playwright@latest
 
 ## Vídeo de apresentação do projeto
 
-<b>Vídeo de Apresentação do projeto:</b>
 https://www.loom.com/share/13f5c934f3ec4c77b520952059ec6c2b?sid=9eba01de-3072-4bf5-9799-50f0f584cedd
 
