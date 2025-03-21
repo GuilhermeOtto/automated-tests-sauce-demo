@@ -18,9 +18,10 @@ export default defineConfig({
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
   use: {
     screenshot: 'only-on-failure',
-    video: 'retain-on-failure',
+    video: 'on',//'retain-on-failure'
     baseURL: 'https://www.saucedemo.com/',
     trace: 'on-first-retry',
+    storageState: './tests/auth/auth.json',
   },
 
   /* Configure projects for major browsers */

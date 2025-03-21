@@ -2,8 +2,9 @@
   "name": "automated-tests-sauce-demo",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "npx playwright test"
+    "test": "node ./tests/auth/authSetup.js && npx playwright test"
   },
   "repository": {
     "type": "git",
