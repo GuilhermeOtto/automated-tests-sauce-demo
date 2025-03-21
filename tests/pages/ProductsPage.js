@@ -48,5 +48,4 @@ class ProductsPage {
         return prices;  
      }
 }
-
 export default ProductsPage;
