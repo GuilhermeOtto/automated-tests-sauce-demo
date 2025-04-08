@@ -102,7 +102,3 @@ npm init playwright@latest
 
 <p>Este projeto utiliza uma abordagem Page Object Model (POM) para organizar os testes, promovendo a reutilização de código e a manutenção simplificada. Cada página da aplicação tem sua própria classe correspondente, e todas as interações com os elementos da página são centralizadas nessas classes.</p>
 
-## Vídeo de apresentação do projeto
-
-https://www.loom.com/share/13f5c934f3ec4c77b520952059ec6c2b?sid=9eba01de-3072-4bf5-9799-50f0f584cedd
-
